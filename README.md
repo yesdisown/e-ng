@@ -1,6 +1,7 @@
 # e-ng
 
 The successor to [BrutBurger](https://github.com/brutburger)'s [Project E](https://github.com/brutburger/e). A C++ obfuscator written in Rust.
+Use it to ragebait people on help forums.
 
 ## Installation
 
