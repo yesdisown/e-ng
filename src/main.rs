@@ -35,7 +35,7 @@ fn print_banner() {
 #[command(
     name = "e-ng",
     version,
-    about = "The successor of BrutBurger's Project E. A C++ obfuscator.",
+    about = "The successor to BrutBurger's Project E. A C++ obfuscator.",
     before_help = banner()
 )]
 struct Args {
